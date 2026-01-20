@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Sacramento');
 
 #card {
+  /*Carta*/
    height:500px;
    width:800px;
    margin:5em auto;
